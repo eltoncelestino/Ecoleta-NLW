@@ -1,5 +1,9 @@
 # Ecoleta-NLW
 
+![Page Home](https://github.com/eltoncelestino/Ecoleta-NLW/blob/master/image-readme/inicial.png)
+
+
+
 ### About this project
 This application was developed in a week of intensive training, taught by the guys at RocketSeat.
  
