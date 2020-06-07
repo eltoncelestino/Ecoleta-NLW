@@ -39,13 +39,12 @@ $ npm install
 ### Running application
 $ npm start
 
-### screenshot and video
+### Screenshot
 
+#### search for registered cities
 ![Search](https://github.com/eltoncelestino/Ecoleta-NLW/blob/master/image-readme/pesquisa.png)
 
+#### Registered cities
 ![City](https://github.com/eltoncelestino/Ecoleta-NLW/blob/master/image-readme/cidades.png)
-
-![Register](https://github.com/eltoncelestino/Ecoleta-NLW/blob/master/image-readme/inserir.mp4)
-
 
 
