@@ -18,7 +18,7 @@ The application was made thinking about the world environment day, in order to t
 ### Cloning the Repository
 $ git clone https://github.com/eltoncelestino/Ecoleta-NLW
 
-$ cd ecoleta
+$ cd Ecoleta-NLW
 
 ### Installing dependencies
 $ yarn
