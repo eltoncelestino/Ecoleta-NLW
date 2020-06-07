@@ -1,0 +1,39 @@
+/*Está referenciando a raiz do documento html
+Os elementos contidos aqui, poderão ser repetidos, replicados, em formato de variáveis
+*/
+:root {
+    --title-color: #322153;
+    --primary-color: #34cb79;
+}
+
+/*Para zerar todos os espaços padrões que existe na página*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html {
+    font-family: 'Bitter', serif;
+}
+
+body {
+    background: #f0f0f5;
+    -webkit-font-smoothing: antialiased;
+}
+
+/*Tirar sublinhado*/
+a {
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Ubuntu', sans-serif;
+    color: var(--title-color);
+}
+
+
+
+
+
